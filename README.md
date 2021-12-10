@@ -23,4 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotheto)](https://github.com/anuraghazra/github-readme-stats)
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=api-doctor-gcb)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=NLW6-trilhaNodeJS)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=clone-discord)](https://github.com/anuraghazra/github-readme-stats)
