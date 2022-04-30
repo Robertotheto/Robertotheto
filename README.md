@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertotheto&show_icons=true&theme=tokyonight)](https://github.com/Robertotheto/Robertotheto/)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotheto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotheto)](https://github.com/Robertotheto/Robertotheto/)
 ###
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=api-doctor-gcb)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=NLW6-trilhaNodeJS)](https://github.com/anuraghazra/github-readme-stats)
