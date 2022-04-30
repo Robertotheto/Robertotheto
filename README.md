@@ -26,3 +26,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=NLW6-trilhaNodeJS)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=clone-discord)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=PegaMassaDelivery-backend)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=ignite-lab-01)](https://github.com/Robertotheto/ignite-lab-01)
