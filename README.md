@@ -28,3 +28,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=PegaMassaDelivery-backend)](https://github.com/Robertotheto/PegaMassaDelivery-backend) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=ignite-lab-01)](https://github.com/Robertotheto/ignite-lab-01)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=podcastrnext)](https://github.com/Robertotheto/https://github.com/Robertotheto/podcastrnext)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=proffy-app)](https://github.com/Robertotheto/proffy-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robertotheto&repo=nlw-4-move.it)](https://github.com/Robertotheto/nlw-4-move.it)
