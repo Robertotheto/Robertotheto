@@ -18,7 +18,7 @@
 ![image](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertotheto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertotheto&show_icons=true&theme=tokyonight)](https://github.com/Robertotheto/Robertotheto/)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertotheto)](https://github.com/anuraghazra/github-readme-stats)
 ###
